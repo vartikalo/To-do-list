@@ -1,0 +1,41 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+    background-color:yellowgreen;
+}
+
+.conatiner{
+    width: 360px;
+    border : 1px solid blue;
+}
+
+#inputField{
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 20px;
+    vertical-align: bottom;
+}
+
+#add{
+    height: 45px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: bottom;
+    font-size: 30px;
+}
+
+.todoContainer{
+    width: 350px;
+    margin-top: 25px;
+    border: 100px sold red;
+    background-color: chartreuse;
+
+}
+
+.para-style{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
